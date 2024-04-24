@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+Nandakshabasiccalculator.egg-info/PKG-INFO
+Nandakshabasiccalculator.egg-info/SOURCES.txt
+Nandakshabasiccalculator.egg-info/dependency_links.txt
+Nandakshabasiccalculator.egg-info/top_level.txt
